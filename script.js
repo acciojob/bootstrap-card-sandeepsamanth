@@ -1,2 +1,0 @@
-//your code here
-"AssertionError: Timed out retrying after 4000ms: Not enough elements found. Found '1', expected '2'. at Context.eval (http://localhost:3000/__cypress/tests?p=cypress/integration/tests/test.spec.js:134:40)"
